@@ -104,6 +104,7 @@
 		046307D32238F4C6008E2FBF /* GCPodsTestDemo */ = {
 			isa = PBXGroup;
 			children = (
+				0463080E22390082008E2FBF /* Sources */,
 				046307D42238F4C6008E2FBF /* AppDelegate.h */,
 				046307D52238F4C6008E2FBF /* AppDelegate.m */,
 				046307D72238F4C6008E2FBF /* ViewController.h */,
@@ -113,8 +114,6 @@
 				046307DF2238F4C7008E2FBF /* LaunchScreen.storyboard */,
 				046307E22238F4C7008E2FBF /* Info.plist */,
 				046307E32238F4C7008E2FBF /* main.m */,
-				046308062238F502008E2FBF /* GCPodDemo.h */,
-				046308072238F502008E2FBF /* GCPodDemo.m */,
 			);
 			path = GCPodsTestDemo;
 			sourceTree = "<group>";
@@ -135,6 +134,15 @@
 				046307FA2238F4C7008E2FBF /* Info.plist */,
 			);
 			path = GCPodsTestDemoUITests;
+			sourceTree = "<group>";
+		};
+		0463080E22390082008E2FBF /* Sources */ = {
+			isa = PBXGroup;
+			children = (
+				046308062238F502008E2FBF /* GCPodDemo.h */,
+				046308072238F502008E2FBF /* GCPodDemo.m */,
+			);
+			path = Sources;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
